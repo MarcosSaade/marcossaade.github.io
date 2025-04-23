@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.24d6b271.css",
-    "main.js": "/static/js/main.c98e2b2b.js",
+    "main.js": "/static/js/main.c4fb23cf.js",
     "static/js/453.b554af89.chunk.js": "/static/js/453.b554af89.chunk.js",
     "static/media/solarpanel.png": "/static/media/solarpanel.047ab7721f317f9a8839.png",
     "static/media/graphical-abstract.png": "/static/media/graphical-abstract.05b7f1168050c8187aba.png",
@@ -93,11 +93,11 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/index.html",
     "main.24d6b271.css.map": "/static/css/main.24d6b271.css.map",
-    "main.c98e2b2b.js.map": "/static/js/main.c98e2b2b.js.map",
+    "main.c4fb23cf.js.map": "/static/js/main.c4fb23cf.js.map",
     "453.b554af89.chunk.js.map": "/static/js/453.b554af89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24d6b271.css",
-    "static/js/main.c98e2b2b.js"
+    "static/js/main.c4fb23cf.js"
   ]
 }
