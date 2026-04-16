@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c87589d1.css",
-    "main.js": "/static/js/main.eb53c96b.js",
+    "main.js": "/static/js/main.923d4a39.js",
     "static/css/634.6e9082d1.chunk.css": "/static/css/634.6e9082d1.chunk.css",
     "static/js/634.05d45d8f.chunk.js": "/static/js/634.05d45d8f.chunk.js",
     "static/css/508.6e9082d1.chunk.css": "/static/css/508.6e9082d1.chunk.css",
@@ -11,7 +11,7 @@
     "static/css/481.6e9082d1.chunk.css": "/static/css/481.6e9082d1.chunk.css",
     "static/js/481.884c9fc9.chunk.js": "/static/js/481.884c9fc9.chunk.js",
     "static/css/748.6e9082d1.chunk.css": "/static/css/748.6e9082d1.chunk.css",
-    "static/js/748.2678671b.chunk.js": "/static/js/748.2678671b.chunk.js",
+    "static/js/748.a7cd11ba.chunk.js": "/static/js/748.a7cd11ba.chunk.js",
     "static/css/861.6e9082d1.chunk.css": "/static/css/861.6e9082d1.chunk.css",
     "static/js/861.1a066e15.chunk.js": "/static/js/861.1a066e15.chunk.js",
     "static/css/497.6e9082d1.chunk.css": "/static/css/497.6e9082d1.chunk.css",
@@ -33,6 +33,7 @@
     "static/media/sales-analytics.png": "/static/media/sales-analytics.4c5b1591342d46674253.png",
     "static/media/neurocapture.png": "/static/media/neurocapture.8b0c294efd96a06b5f8b.png",
     "static/media/predicciones_region.png": "/static/media/predicciones_region.7032553a7ac72bc200fc.png",
+    "static/media/orthopedics.png": "/static/media/orthopedics.578d6cad3ae60b64cad1.png",
     "static/media/rolling_sharpe.png": "/static/media/rolling_sharpe.c88db7ea72782023535b.png",
     "static/media/clusters_3d.png": "/static/media/clusters_3d.497390ed4e1a037ee0f0.png",
     "static/media/allocation_analysis.png": "/static/media/allocation_analysis.59802d07374ae9f1d835.png",
@@ -80,7 +81,6 @@
     "static/media/vaccination-effect.png": "/static/media/vaccination-effect.0a84ce370aac1156c71b.png",
     "static/media/estacionalidad.png": "/static/media/estacionalidad.81c5a50c87f54f1e597d.png",
     "static/media/finance.jpeg": "/static/media/finance.f03a4101488847d835a0.jpeg",
-    "static/media/orthopedics.jpeg": "/static/media/orthopedics.636513a28860b4622122.jpeg",
     "static/media/KaTeX_AMS-Regular.ttf": "/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/ui-preview.png": "/static/media/ui-preview.6f64532c8bf8e79042c8.png",
     "static/media/headshot.png": "/static/media/headshot.a84bb50a364402d0dfeb.png",
@@ -158,7 +158,7 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/index.html",
     "main.c87589d1.css.map": "/static/css/main.c87589d1.css.map",
-    "main.eb53c96b.js.map": "/static/js/main.eb53c96b.js.map",
+    "main.923d4a39.js.map": "/static/js/main.923d4a39.js.map",
     "634.6e9082d1.chunk.css.map": "/static/css/634.6e9082d1.chunk.css.map",
     "634.05d45d8f.chunk.js.map": "/static/js/634.05d45d8f.chunk.js.map",
     "508.6e9082d1.chunk.css.map": "/static/css/508.6e9082d1.chunk.css.map",
@@ -168,7 +168,7 @@
     "481.6e9082d1.chunk.css.map": "/static/css/481.6e9082d1.chunk.css.map",
     "481.884c9fc9.chunk.js.map": "/static/js/481.884c9fc9.chunk.js.map",
     "748.6e9082d1.chunk.css.map": "/static/css/748.6e9082d1.chunk.css.map",
-    "748.2678671b.chunk.js.map": "/static/js/748.2678671b.chunk.js.map",
+    "748.a7cd11ba.chunk.js.map": "/static/js/748.a7cd11ba.chunk.js.map",
     "861.6e9082d1.chunk.css.map": "/static/css/861.6e9082d1.chunk.css.map",
     "861.1a066e15.chunk.js.map": "/static/js/861.1a066e15.chunk.js.map",
     "497.6e9082d1.chunk.css.map": "/static/css/497.6e9082d1.chunk.css.map",
@@ -187,6 +187,6 @@
   },
   "entrypoints": [
     "static/css/main.c87589d1.css",
-    "static/js/main.eb53c96b.js"
+    "static/js/main.923d4a39.js"
   ]
 }
